@@ -1,0 +1,8 @@
+{
+  "references": [],
+  "compilerOptions": {
+    "skipLibCheck": true,
+    "declaration": true,
+    "declarationMap": true
+  }
+}
